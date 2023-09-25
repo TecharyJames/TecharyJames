@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TecharyJames
 - 👀 I’m interested in automation, mainly using powershell.
-- 🌱 I’m currently learning powershell stuff, anything to help with my sysadmin job. 
+- 🌱 I’m currently learning powershell stuff, anything to help with my InfoSec job. 
 - 📫 You can reach me on jtarran@techary.com.
 
 <!---
